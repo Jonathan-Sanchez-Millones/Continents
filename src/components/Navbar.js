@@ -22,7 +22,7 @@ export const Navigation = ()=>(
       <ul className="navbar-nav">
         <li className="nav-item">
           <Link className="nav-link" to="/countries">
-            Countries
+            Horizontal Bar
           </Link>
         </li>
         
